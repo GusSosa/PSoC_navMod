@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="HelloWorldSerial\USBFS_UART01">
+<ExpandedNodeIds>
+<v>HelloWorldSerial</v>
+<v>HelloWorldSerial\HelloWorldSerial2021</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\TopDesign</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\HelloWorldSerial2021.cydwr</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\HelloWorldSerial2021.cydwr\Pins</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\HelloWorldSerial2021.cydwr\Analog</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\HelloWorldSerial2021.cydwr\Clocks</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\HelloWorldSerial2021.cydwr\Interrupts</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\HelloWorldSerial2021.cydwr\DMA</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\HelloWorldSerial2021.cydwr\System</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\HelloWorldSerial2021.cydwr\Directives</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\HelloWorldSerial2021.cydwr\Flash Security</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\HelloWorldSerial2021.cydwr\EEPROM</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\Header Files</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\Header Files\cyapicallbacks.h</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\Source Files</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\Source Files\main.c</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\Generated_Source</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\Generated_Source\PSoC5</v>
+<v>HelloWorldSerial\USBFS_UART01</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign</v>
+<v>HelloWorldSerial\USBFS_UART01\USBFS_UART01.cydwr</v>
+<v>HelloWorldSerial\USBFS_UART01\USBFS_UART01.cydwr\Pins</v>
+<v>HelloWorldSerial\USBFS_UART01\USBFS_UART01.cydwr\Analog</v>
+<v>HelloWorldSerial\USBFS_UART01\USBFS_UART01.cydwr\Clocks</v>
+<v>HelloWorldSerial\USBFS_UART01\USBFS_UART01.cydwr\Interrupts</v>
+<v>HelloWorldSerial\USBFS_UART01\USBFS_UART01.cydwr\DMA</v>
+<v>HelloWorldSerial\USBFS_UART01\USBFS_UART01.cydwr\System</v>
+<v>HelloWorldSerial\USBFS_UART01\USBFS_UART01.cydwr\Directives</v>
+<v>HelloWorldSerial\USBFS_UART01\USBFS_UART01.cydwr\Flash Security</v>
+<v>HelloWorldSerial\USBFS_UART01\USBFS_UART01.cydwr\EEPROM</v>
+<v>HelloWorldSerial\USBFS_UART01\Source Files</v>
+<v>HelloWorldSerial\USBFS_UART01\Source Files\main.c</v>
+<v>HelloWorldSerial\USBFS_UART01\cyapicallbacks.h</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5</v>
+<v>HelloWorldSerial\USBFS_UART01\USBFS_UART.pdf</v>
+<v>HelloWorldSerial\USBFS_UART01\USBUART_cdc.inf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\cy_boot</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\CyScBoostClk</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\LCD</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\LCD_LCDPort</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\USBUART</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\USBUART_Dm</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\USBUART_Dp</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\cycodeshareexport.ld</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\cycodeshareimport.ld</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\cycodeshareimport.scat</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\cydevice.h</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\cydevice_trm.h</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\cydevicegnu.inc</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\cydevicegnu_trm.inc</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\cydeviceiar.inc</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\cydeviceiar_trm.inc</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\cydevicerv.inc</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\cydevicerv_trm.inc</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\cydisabledsheets.h</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\cyfitter.h</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\cyfitter_cfg.c</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\cyfitter_cfg.h</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\cyfittergnu.inc</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\cyfitteriar.inc</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\cyfitterrv.inc</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\cymetadata.c</v>
+<v>HelloWorldSerial\USBFS_UART01\Generated_Source\PSoC5\project.h</v>
+<v>HelloWorldSerial\USBFS_UART01\USBFS_UART.pdf</v>
+<v>HelloWorldSerial\USBFS_UART01\USBUART_cdc.inf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>HelloWorldSerial</v>
+<v>HelloWorldSerial\HelloWorldSerial2021</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\TopDesign</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\TopDesign\TopDesign.cysch</v>
+<v>HelloWorldSerial\USBFS_UART01</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign\PSoC3</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign\PSoC3\TopDesign.ctl</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign\PSoC3\TopDesign.cysch</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign\PSoC4</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign\PSoC4\PSoC 4200L</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign\PSoC4\PSoC 4200L\TopDesign.ctl</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign\PSoC4\PSoC 4200L\TopDesign.cysch</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign\PSoC5</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign\PSoC5\TopDesign.ctl</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign\PSoC5\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>HelloWorldSerial</v>
+<v>HelloWorldSerial\HelloWorldSerial2021</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\TopDesign</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\TopDesign\TopDesign.cysch</v>
+<v>HelloWorldSerial\USBFS_UART01</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign\PSoC3</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign\PSoC3\TopDesign.ctl</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign\PSoC3\TopDesign.cysch</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign\PSoC4</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign\PSoC4\PSoC 4200L</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign\PSoC4\PSoC 4200L\TopDesign.ctl</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign\PSoC4\PSoC 4200L\TopDesign.cysch</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign\PSoC5</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign\PSoC5\TopDesign.ctl</v>
+<v>HelloWorldSerial\USBFS_UART01\TopDesign\PSoC5\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>HelloWorldSerial</v>
+<v>HelloWorldSerial\HelloWorldSerial2021</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\BoardLed.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\Button.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_audio.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_boot.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_cdc.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_cls.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_descr.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_Dm.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_Dp.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_drv.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_episr.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_hid.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_midi.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_msc.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_pm.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_std.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_vnd.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\HelloWorldSerial2021.elf</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\HelloWorldSerial2021.hex</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\HelloWorldSerial2021.map</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\HelloWorldSerial2021.gpdsc</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\HelloWorldSerial2021.rpt</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\HelloWorldSerial2021_timing.html</v>
+<v>HelloWorldSerial\USBFS_UART01</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\CyScBoostClk.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_LCDPort.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\LCD_PM.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_audio.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_boot.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_cdc.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_cls.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_descr.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_Dm.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_Dp.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_drv.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_episr.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_hid.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_midi.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_msc.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_pm.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_std.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_vnd.lst</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\USBFS_UART01.elf</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\USBFS_UART01.hex</v>
+<v>HelloWorldSerial\USBFS_UART01\CortexM3\ARM_GCC_541\Debug\USBFS_UART01.map</v>
+<v>HelloWorldSerial\USBFS_UART01\USBFS_UART01.gpdsc</v>
+<v>HelloWorldSerial\USBFS_UART01\USBFS_UART01.rpt</v>
+<v>HelloWorldSerial\USBFS_UART01\USBFS_UART01_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>HelloWorldSerial</v>
+<v>HelloWorldSerial\HelloWorldSerial2021</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\BoardLed.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\Button.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\Clock_1.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_audio.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_boot.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_cdc.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_cls.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_descr.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_Dm.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_Dp.lst</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CortexM3\ARM_GCC_541\Debug\Listing Files\USBUART_drv.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>HelloWorldSerial</v>
+<v>HelloWorldSerial\HelloWorldSerial2021</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\PSoC 5LP Architecture TRM</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CY8C58LP Family Datasheet</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\System Reference Guides</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\System Reference Guides\cy_boot_v6_10</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\cy_clock_v2_20.pdf</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\cy_pins_v2_20</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\cy_tff_v1_0.pdf</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\Debouncer_v1_0.pdf</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\USBFS_v3_20.pdf</v>
+<v>HelloWorldSerial\USBFS_UART01</v>
+<v>HelloWorldSerial\USBFS_UART01\PSoC 5LP Architecture TRM</v>
+<v>HelloWorldSerial\USBFS_UART01\CY8C58LP Family Datasheet</v>
+<v>HelloWorldSerial\USBFS_UART01\System Reference Guides</v>
+<v>HelloWorldSerial\USBFS_UART01\System Reference Guides\cy_boot_v5_60</v>
+<v>HelloWorldSerial\USBFS_UART01\CharLCD_v2_20.pdf</v>
+<v>HelloWorldSerial\USBFS_UART01\USBFS_v3_10.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>HelloWorldSerial</v>
+<v>HelloWorldSerial\HelloWorldSerial2021</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\PSoC 5LP Architecture TRM</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\CY8C58LP Family Datasheet</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\System Reference Guides</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\System Reference Guides\cy_boot_v6_10</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\cy_clock_v2_20.pdf</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\cy_pins_v2_20</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\cy_tff_v1_0.pdf</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\Debouncer_v1_0.pdf</v>
+<v>HelloWorldSerial\HelloWorldSerial2021\USBFS_v3_20.pdf</v>
+<v>HelloWorldSerial\USBFS_UART01</v>
+<v>HelloWorldSerial\USBFS_UART01\PSoC 5LP Architecture TRM</v>
+<v>HelloWorldSerial\USBFS_UART01\CY8C58LP Family Datasheet</v>
+<v>HelloWorldSerial\USBFS_UART01\System Reference Guides</v>
+<v>HelloWorldSerial\USBFS_UART01\System Reference Guides\cy_boot_v5_60</v>
+<v>HelloWorldSerial\USBFS_UART01\CharLCD_v2_20.pdf</v>
+<v>HelloWorldSerial\USBFS_UART01\USBFS_v3_10.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\HelloWorldSerial2021.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\HelloWorldSerial2021.cydsn\HelloWorldSerial2021.cydwr" />
+<name v=".\HelloWorldSerial2021.cydsn\main.c" />
+<name v=".\USBFS_UART01.cydsn\main.c" />
+<name v=".\USBFS_UART01.cydsn\TopDesign\PSoC5\TopDesign.cysch" />
+<name v=".\USBFS_UART01.cydsn\USBFS_UART01.cydwr" />
+<name v=".\HelloWorldSerial2021.cydsn\Generated_Source\PSoC5\USBUART_cdc.c" />
+<name v=".\HelloWorldSerial2021.cydsn\Generated_Source\PSoC5\USBUART.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="775, 430" SelectedTabbedMdiWindow="3f605c12-1b72-4b12-bd08-29130f42a318"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="d9825beb-baac-4a33-8547-918d9fc2bc96" /><DocumentWindow Key="C:\Users\gusta\Documents\PSoC Creator\HelloWorldSerial\HelloWorldSerial2021.cydsn\TopDesign\TopDesign.cysch" Guid="3f605c12-1b72-4b12-bd08-29130f42a318" /><DocumentWindow Key="C:\Users\gusta\Documents\PSoC Creator\HelloWorldSerial\HelloWorldSerial2021.cydsn\HelloWorldSerial2021.cydwr" Guid="5bbad940-c5df-42a6-bacd-356c5f8acb88" /><DocumentWindow Key="C:\Users\gusta\Documents\PSoC Creator\HelloWorldSerial\HelloWorldSerial2021.cydsn\main.c" Guid="857d0044-a39f-44ca-a592-1101f7f0374e" /><DocumentWindow Key="C:\Users\gusta\Documents\PSoC Creator\HelloWorldSerial\USBFS_UART01.cydsn\main.c" Guid="30ecbffd-34b1-4c51-934a-a9d72cabd0db" /><DocumentWindow Key="C:\Users\gusta\Documents\PSoC Creator\HelloWorldSerial\USBFS_UART01.cydsn\TopDesign\PSoC5\TopDesign.cysch" Guid="513a691d-d46f-4c8d-ad28-052689d0664f" /><DocumentWindow Key="C:\Users\gusta\Documents\PSoC Creator\HelloWorldSerial\USBFS_UART01.cydsn\USBFS_UART01.cydwr" Guid="d7973a83-345c-4e7d-b5a2-8d9ba9183939" /><DocumentWindow Key="C:\Users\gusta\Documents\PSoC Creator\HelloWorldSerial\HelloWorldSerial2021.cydsn\Generated_Source\PSoC5\USBUART_cdc.c" Guid="5c9fd8af-eb2f-4652-9b6d-29d5de1263af" /><DocumentWindow Key="C:\Users\gusta\Documents\PSoC Creator\HelloWorldSerial\HelloWorldSerial2021.cydsn\Generated_Source\PSoC5\USBUART.c" Guid="cace5906-0c23-4e13-ad3a-c519d52f7ca5" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

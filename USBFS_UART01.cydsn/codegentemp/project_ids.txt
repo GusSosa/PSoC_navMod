@@ -1,0 +1,9 @@
+C:\Users\gusta\Documents\PSoC Creator\HelloWorldSerial\HelloWorldSerial2021.cydsn\HelloWorldSerial2021.cyprj|70746aae-c2ad-4a92-88fb-b839bc72cbe0
+D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|ca441917-e521-415c-8581-998c45521e34
+C:\Users\gusta\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|ecfff758-5dca-4b51-a827-81ce08f8087c
+C:\Users\gusta\Documents\PSoC Creator\4.3\Downloads ( 4.3).cylib\Downloads ( 4.3).cyprj|dd148fb6-be68-43a4-9c02-487cc82978fd
+D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|86f20320-d491-416d-aeb8-ee4f85105904
+D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|ab9932bf-ed79-4765-843f-ff7d2e847916
+D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|3d89eb51-9ae7-4094-a3e9-a0b6707dfd89
+C:\Users\gusta\Documents\PSoC Creator\HelloWorldSerial\USBFS_UART01.cydsn\USBFS_UART01.cyprj|8b556c86-eae8-4b9a-b672-f467497db44f
+D:\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|124f7ad1-54ba-433f-b3e6-8eb6501e1e1f
